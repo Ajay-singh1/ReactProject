@@ -4,4 +4,4 @@
 
 <strong>This is a React project which shows very basic functionality of React </strong>
 
-<b>1.</b><p>To understand and watch how this project works follow the steps<p>
+<b>1.</b>To understand and watch how this project works follow the steps:-
