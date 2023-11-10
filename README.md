@@ -7,3 +7,12 @@
 <b>To understand and watch how this project works follow the steps:-</b>
 
 1.**Clone the repository:** Clone the Repository https://github.com/Ajay-singh1/ReactProject.git
+
+2.**Navigate to the directory:** cd tutorial
+
+3.**Install Dependencies:** npm start
+
+4.**Start the Development Server:** npm start
+
+5.**The Development Server:** The Development server will start at localhost:3000
+
