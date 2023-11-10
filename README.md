@@ -16,8 +16,4 @@
 
 5.**The Development Server:** The Development server will start at localhost:3000
 
-## Project Demo
-
-
-![React Project](https://github.com/Ajay-singh1/ReactProject/blob/main/ReactProject.PNG)
 
