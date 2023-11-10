@@ -6,4 +6,4 @@
 
 <b>To understand and watch how this project works follow the steps:-</b>
 
-1. **Clone the repository:** Clone the Repository
+1.**Clone the repository:** Clone the Repository
